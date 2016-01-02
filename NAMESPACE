@@ -1,0 +1,7 @@
+useDynLib(forega)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+importFrom("stats", "runif")
+import(forecast)
+import(robfilter)
+
