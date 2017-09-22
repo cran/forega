@@ -26,7 +26,7 @@ ForecastArima = function(genes, Anchestors, MinimumForecastLength = 5, forecastp
 		
 			result = tryCatch({
 	        	model1 <- auto.arima(tseries1)
-            	f1 <- forecast.Arima(model1,1)$mean
+            	f1 <- forecast(model1,1)$mean
            		if(!is.na(f1) || !is.nan(f1)){
 					result[i] <- f1
 				}else{
