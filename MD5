@@ -1,11 +1,11 @@
-8553912567c94845e178720fdfabf1d2 *DESCRIPTION
+a6708168bc63e0f5f79d5f2187f68fe0 *DESCRIPTION
 eb80161c877386a7da3f8d8ec0a89c33 *NAMESPACE
 dda94d098ed17dd1e40f883e229659e8 *R/RcppExports.R
 4d246398136c1e2f85b89258d0ef615a *R/forecasting_ga.R
 b8798291d5dd800bdc80f597df67e8b5 *man/ForecastArima.Rd
 234d68b7c9f94c14e45acd1ceb01c3f1 *man/forecasting_ga.Rd
-546e388e72a4fbdada9f1b0bae959050 *man/forega-package.Rd
-500e2374fa9169b62cb0fe0c46b949a2 *src/Chromosome.cpp
+46668cbdcca3eb13d34fdfd30e405f92 *man/forega-package.Rd
+c8d87e576f9e70906acb856346d9b964 *src/Chromosome.cpp
 334db82bb542b98cb6e451053a048a60 *src/Chromosome.h
 98d2e7d7ee6e53af27d58f2a3294de99 *src/Population.cpp
 0ce9579f5d19ee8f921c7bacf427898d *src/Population.h

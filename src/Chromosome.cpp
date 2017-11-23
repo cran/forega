@@ -23,7 +23,7 @@ Chromosome::Chromosome(int len) {
 }
 
 Chromosome::~Chromosome() {
-	delete genes;
+	free(genes);
     //cout << "Deleted Chromosome " << (unsigned long)this << endl;
 }
 

@@ -12,8 +12,8 @@ forega performs a floating-point genetic algorithm search with a statistical for
 \tabular{ll}{
 Package: \tab forega\cr
 Type: \tab Package\cr
-Version: \tab 1.0.2\cr
-Date: \tab 2017-09-22\cr
+Version: \tab 1.0.3\cr
+Date: \tab 2017-11-23\cr
 License: \tab GPL (>= 2)\cr
 }
 
